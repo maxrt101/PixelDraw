@@ -31,4 +31,8 @@
 *.out
 *.app
 
+# macOS specific
+.DS_Store
+
+# Project specific
 res/*
